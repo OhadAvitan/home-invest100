@@ -8,7 +8,7 @@
 import '@mdi/font/css/materialdesignicons.css'
 import 'vuetify/styles'
 
-alert('vuee')
+// alert('vuee')
 // Composables
 import { createVuetify } from 'vuetify'
 
